@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class DadosCliente {
 
 	private String nomeCliente;
